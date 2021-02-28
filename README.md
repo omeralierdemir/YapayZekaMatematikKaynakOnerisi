@@ -49,7 +49,7 @@ Bu konuda deep learning veya machine learning öğrendik eee ne oldu şimdi ne y
 #### Kendinizin beğendiği kaynakları mutlaka benimle paylaşın. Bende bu listeyi sizden gelenler ile güncelleyeyim. Veya bu repoya branch açarak güncelleyebilir sonrasında bende merge işlemi yapabilirim.(benimde işime gelir) Bu şekilde insanların yararlanabileceği güzel bir kaynak listesi oluşturmuş oluruz. "Paranın aksine ilim, paylaştıkça çoğalır" 
 
 
-#### Bu derslerin çoğu ücretsizdir arkadaşlar. Öyle bir dönemdeyizki yurtdışındaki çok kaliteli ünilerin derslerine online erişim sağlayıp faydalanabiliyoruz. Elimizde "bize anlatılan ders içerikleri çok boş" bahaneside kalmadı anlayacağınız. Geriye tek kalan şey azmedip çalışmak. Umarım işinize yarar.
+#### Bu derslerin çoğu ücretsizdir arkadaşlar. Öyle bir dönemdeyizki yurtdışındaki çok kaliteli ünilerin derslerine online erişim sağlayıp faydalanabiliyoruz. Elimizde "bize anlatılan ders içerikleri çok boş" bahanesi de kalmadı anlayacağınız. Geriye tek kalan şey azmedip çalışmak. Umarım işinize yarar.
 Kolaylıklar Gelsin...
 
 
