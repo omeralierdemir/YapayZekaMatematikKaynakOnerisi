@@ -18,7 +18,7 @@ Hayırlı günleriniz olsun arkadaşlar. Bu dosyada daha önce kullandığım ve
 1.2-) https://www.coursera.org/specializations/deep-learning  // andrew Ng derslerinin gayet içerik olarak sağlam olduğunu düşünüyorum.
 
 1.3-) https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&ab_channel=stanfordonline  //
-standord üni. 'nin dersleri. Başrolde andrew ng amcamız var tekrardan.
+stanford üni. 'nin dersleri. Başrolde andrew ng amcamız var tekrardan.
 
 ### Deep Learning
 
