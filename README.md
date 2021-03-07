@@ -11,6 +11,8 @@ Hayırlı günleriniz olsun arkadaşlar. Bu dosyada daha önce kullandığım ve
 
 1.3-) https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&ab_channel=MITOpenCourseWare // her yapay zeka alanında çalışıyorum diyen adamın probability bilgisinin sağlam olması gerektiğini düşünüyorum.
 
+1.4-) https://towardsdatascience.com/why-logarithms-are-so-important-in-machine-learning-6d2ff7930c8e  // Why Logarithms Are So Important In Machine Learning sorusuna karşılık güzel bir medium bloğu
+
 ### Machine Learning
 
 1-1) https://www.udemy.com/course/makine-ogrenmesi/learn/lecture/10735892?start=0#overview  // her ne kadar Türkçe kaynaları içerik açısından yetersiz bulsamda Şadi hocanın machine learning derslerinde teorik bilgiyi güzel anlattığını düşünüyorum. Çok matematik kısmına girmemiştir.Lakin temel olayların konseptini iyi anlatıyor bence.
