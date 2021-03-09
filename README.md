@@ -13,6 +13,8 @@ Hayırlı günleriniz olsun arkadaşlar. Bu dosyada daha önce kullandığım ve
 
 1.4-) https://towardsdatascience.com/why-logarithms-are-so-important-in-machine-learning-6d2ff7930c8e  // Why Logarithms Are So Important In Machine Learning sorusuna karşılık güzel bir medium bloğu
 
+1.5-) https://www.coursera.org/specializations/mathematics-machine-learning  // Imperial College London tarafından verilen bu kurs serisinde Lineer cebirden Çok Değişkenli Matematiğe (Multivariate Calculus) kadar Ml hakkında birçok konuya hakim olabilirsiniz. 
+
 ### Machine Learning
 
 1-1) https://www.udemy.com/course/makine-ogrenmesi/learn/lecture/10735892?start=0#overview  // her ne kadar Türkçe kaynaları içerik açısından yetersiz bulsamda Şadi hocanın machine learning derslerinde teorik bilgiyi güzel anlattığını düşünüyorum. Çok matematik kısmına girmemiştir.Lakin temel olayların konseptini iyi anlatıyor bence.
@@ -21,6 +23,8 @@ Hayırlı günleriniz olsun arkadaşlar. Bu dosyada daha önce kullandığım ve
 
 1.3-) https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&ab_channel=stanfordonline  //
 stanford üni. 'nin dersleri. Başrolde andrew ng amcamız var tekrardan.
+
+1.4-) https://www.coursera.org/specializations/machine-learning  // Washington Üniversitesi tarafından oluşturulmuş Makine Öğrenmesi kurs serisi
 
 ### Deep Learning
 
@@ -37,6 +41,8 @@ andrew-ng, cnn mantığının anlatıldığı dersler.
 1.4-) https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome  // andrew-ng, Neural Network mantığının anlatıldığı dersler.
 
 1.5-) https://www.coursera.org/learn/deep-neural-network/home/welcome  // neural network optimization ve hyperparameter seçimlerinin önemi, nelere yol açtığı konularının anlatıldığı dersler.
+
+1.6-) https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI // MIT tarafından verilen 6.S191 dersleri. Introduction to Deep Learning (Derin Öğrenmeye Giriş) olarak geçse de emin olun çok da giriş seviyesi değil.
 
 
 ### Visual Odemetry - Perseption
