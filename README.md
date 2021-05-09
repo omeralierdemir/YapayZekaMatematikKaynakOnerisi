@@ -1,5 +1,21 @@
 Hayırlı günleriniz olsun arkadaşlar. Bu dosyada daha önce kullandığım ve kullanmaya devam ettiğim yapay zeka (genel olarak deep learning) ve yapay zeka matematiğinde bilinmesi gerekli olan derslerin kaynaklarını paylaşmak istiyorum. Tabiki bu kaynaklar ALLAH'ın emri olan kaynaklar değil :), sadece içeriğini beğendiğim ve sektörde bu alanda çalışan insaların önerdiği kaynaklar olması sebebi ile bu dosyaya eklemekteyim. Umarım yararlı olur.
 
+
+### Matematik - Machine Learning - Deep Learning Kitap Önerisi
+1-)Kevin_P._Murphy Machine Learning A Probabilistic Perspective // "Kesinlikle bir kere bu kitabı bitirmelisin" şeklinde tavsiyeler aldım. Matematik temelli Machine Learning'in anlatıldığı bir kitap.
+
+1.1-) Oliver Duerr, Beate Sick, Elvis Murina - Probabilistic Deep Learning with Python-Manning Publications  // Probablistic tabanlı deep learning anlatımlı bir kitap
+
+1.2-) Dive Into Deep Learning // Uygulamalı ve matemetik tabanlı deep learning tabanlı bir kitaptır.
+
+1.3-) Deep Learning with Python // Bu kitap çok derin teoriye girmeden metotlar hakkında genel fikir(nedir, ne için kullanılabilir v.s) elde edebileceğiniz bir kitaptır.
+
+1.4-) Deep Learning Book  // Bu kitap elon musk tarafından övülmüş ve temel ders kitabı olması gerektiği savunulan bir kitaptır. Lakin kendi çalışmalarımda  her ne kadar içine girmeye çalışsamda dili ve teorisi bana ağır gelmişti.
+
+1.5-) Mathematics Machine Learning  // Bu kitap machine learning için gerekli temel matematiğin anlatıldığı ve genel bazı temel machine learning algoritmalarının anlatıldığı bir kitaptır.
+
+1.6-) Introduction to robotics mechanics and control (John J Craig) // Bu kitabı visual odemetry'de ve bazı koordinat sistemlerinde kullanılan dönüşüm işlemleri için, kitabın 2. Bölümü olan "Spatial descriptions and transformations" bölümü için önerdiler. Transformasyon işlemleri için en çok atıf alan kaynaklardan biridir.
+
 ### Matematik
 
 
@@ -14,6 +30,12 @@ Hayırlı günleriniz olsun arkadaşlar. Bu dosyada daha önce kullandığım ve
 1.4-) https://towardsdatascience.com/why-logarithms-are-so-important-in-machine-learning-6d2ff7930c8e  // Why Logarithms Are So Important In Machine Learning sorusuna karşılık güzel bir medium bloğu
 
 1.5-) https://www.coursera.org/specializations/mathematics-machine-learning  // Imperial College London tarafından verilen bu kurs serisinde Lineer cebirden Çok Değişkenli Matematiğe (Multivariate Calculus) kadar Ml hakkında birçok konuya hakim olabilirsiniz. 
+
+1.6-) https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/ // linear cebir MIT üniversitesi dersleri
+
+1.7-) https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/ single variable calculus MIT üniversitesi dersleri
+
+1.8-) https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/ Multivariable variable calculus MIT üniversitesi dersleri
 
 ### Machine Learning
 
@@ -30,8 +52,6 @@ stanford üni. 'nin dersleri. Başrolde andrew ng amcamız var tekrardan.
 
 
 1.1-) https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=1&ab_channel=StanfordUniversitySchoolofEngineering  // Justin johnson ve FeiFei reislerin çok sağlam içerikli deep learning dersleri. Stanford üni altında veriliyo dersler. Türkiyedeki çoğu üninin yüksek lisans dersleri bu dersin notları: `https://cs231n.github.io/` altında işlenmektedir. Ben ilk o dersin notlarını çalışıp sonrasında videolarından çalışıp devam etmiştim. Benim için baya verimli olmuştu. Andrej Karpathy ilk cs231n notlarını hazırlayan kişidir. Adını anmamak emeğe haksızlık olur diye düşündüm.
-
-
 
 1.2-) https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi // neural network yapısının genel işleyiş mantığını güzel görselleştirilmiş olduğu kaynaktır kendileri.
 
